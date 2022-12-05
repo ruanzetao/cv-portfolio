@@ -1,4 +1,4 @@
-Hi, I am Sang Nguyen,
+Hi, I am **Sang Nguyen**,
 
 - Having 4 years of experience in Web Testing, Mobile Testing and API Testing
 - Good ability to design scripts for API Testing with Postman
