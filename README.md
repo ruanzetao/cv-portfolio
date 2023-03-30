@@ -1,6 +1,6 @@
 Hi, I am **Sang Nguyen**,
 
-- Having 4 years of experience in Web Testing, Mobile Testing and API Testing
+- Having 5 years of experience in Web Testing, Mobile Testing and API Testing
 - Good ability to design scripts for API Testing with Postman
 - Good ability to build hybrid framework for Automation Testing, design scripts with Selenium Java, TestNG and
 Experiencing in scripting automation testcases with TestComplete.
